@@ -42,6 +42,27 @@ ersetzen durch
 
 Hinweis: https://developers.google.com/machine-learning/crash-course/classification/accuracy
 
+#### Seite 89
+
+Abschnit 3.7
+
+"... Sie bestimmt früh oder später damit konfrontiert sein."
+
+ersetzen durch
+
+"... Sie bestimmt früher oder später damit konfrontiert sein."
+
+#### Seite 90
+
+Kasten Tipps:
+
+"... denken Sie an einem Sensor ..."
+
+ersetzen durch
+
+"... denken Sie an einen Sensor ..."
+
+
 #### Seite 143 
 
 Im Listing 5.1 : 
