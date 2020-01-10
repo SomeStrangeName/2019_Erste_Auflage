@@ -32,6 +32,16 @@ Hinweis: statt der Datei https://archive.ics.uci.edu/ml/machine-learning-databas
 
 *(Dank an Christian)*
 
+#### Seite 78
+
+"accuracy = (TP + FN) / (TP + FP + TN + FN)"
+
+ersetzen durch
+
+"accuracy = (TP + TN) / (TP + FP + TN + FN)"
+
+Hinweis: https://developers.google.com/machine-learning/crash-course/classification/accuracy
+
 #### Seite 143 
 
 Im Listing 5.1 : 
